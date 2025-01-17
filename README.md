@@ -92,7 +92,7 @@ dotnet run
 
 - **Criptografia**: AES-256 para máxima proteção
 - **Análise**: Verificação de padrões e sequências
-- **Armazenamento**: Local e seguro
+- **Armazenamento**: Local e seguro em `C:\Users\[seu usuário]\Documents\PasswordManager`
 - **Proteção**: Contra senhas fracas e comuns
 
 ## 📦 Requisitos
